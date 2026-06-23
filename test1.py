@@ -1,6 +1,6 @@
 # BMI Calculator
 
-weight = float(input("Enter weight (kg): abcde "))
+weight = float(input("Enter weight (kg): abcde 12456789 "))
 height = float(input("Enter height (m): "))
 
 bmi = weight / (height ** 2)
